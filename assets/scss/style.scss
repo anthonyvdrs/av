@@ -1,6 +1,15 @@
+html {
+    height: 100%;
+    width: 100%;
+}
 
-.name {
+.headline {
     text-align: center;
+    //margin-top: 20%;
+}
+
+.h1_span{
+    font-weight: bold;
 }
 
 .wb{
@@ -11,6 +20,17 @@
     text-align: center;
 }
 
+.svg{
+    width: 100%;
+}
 svg{
-    text-align: center;
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.s1 {
+    height: 100vh;//100% view height.
+    padding-top: 6em;
+   
 }
